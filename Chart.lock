@@ -1,0 +1,15 @@
+dependencies:
+- name: elasticsearch
+  repository: https://helm.elastic.co
+  version: 7.15.0
+- name: memcached
+  repository: https://charts.bitnami.com/bitnami
+  version: 5.15.5
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 10.12.4
+- name: redis
+  repository: https://charts.bitnami.com/bitnami
+  version: 15.4.1
+digest: sha256:1028b281ef9fa6bd8052de1a5f52e5b1d3e237450cce955b9c57e68a711088bc
+generated: "2021-10-31T22:17:06.480189017Z"
